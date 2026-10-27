@@ -1,0 +1,6 @@
+# Applied only when this package is installed as a DSH bundle.
+# The local profile mounts the same package with a direct row instead.
+# Do not enable both, or /api/writer will be registered twice.
+- insert:
+    - id: dsh-writer
+      name: dsh-plugin-writer
