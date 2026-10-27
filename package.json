@@ -1,7 +1,7 @@
 {
   "name": "dsh-plugin-writer",
   "version": "0.1.0",
-  "description": "DSH 多模型合稿：用宿主已接入的模型并行写同一题目，再由裁判取精去糟并写出终稿。",
+  "description": "DSH 多模型协同写作：用宿主已接入的模型并行写同一题目，再由裁判取精去糟并写出终稿。",
   "type": "module",
   "license": "MIT",
   "engines": {
