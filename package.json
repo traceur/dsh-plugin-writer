@@ -44,5 +44,22 @@
     "@deepseek-ai/dsh-client-ui-primitives": {
       "optional": true
     }
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/traceur/dsh-plugin-writer.git"
+  },
+  "homepage": "https://github.com/traceur/dsh-plugin-writer#readme",
+  "bugs": {
+    "url": "https://github.com/traceur/dsh-plugin-writer/issues"
+  },
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness",
+    "writer",
+    "council",
+    "llm",
+    "judge"
+  ]
 }
